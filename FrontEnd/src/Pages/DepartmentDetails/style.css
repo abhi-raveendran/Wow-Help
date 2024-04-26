@@ -1,0 +1,38 @@
+.h21 {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    padding-top:50px;
+    /* text-align: center; */
+    align-items: center;
+    padding-left: 600px;
+    /* position: absolute; */
+    position: fixed;
+    font-weight: bolder;
+    
+    
+}
+.departmentdetails{
+    background-image: url('/dep.avif');
+    background-size:100vh;
+    text-align: center;
+    align-items: center;
+    /* padding-top: 20px; */
+    height: 700px;
+    /* min-width:1800px; */
+    /* align-items: center; */
+    /* background-repeat: no-repeat; */
+    overflow-x:scroll;
+    /* margin-top: 100px; */
+}
+
+.department-list-one{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.detail-labours{
+    padding-top: 60px;
+}

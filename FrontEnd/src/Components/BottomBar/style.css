@@ -1,0 +1,38 @@
+.btm-bar{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: grey;
+    justify-content: space-around;
+    margin-top:60px ;
+    align-items: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif 
+}
+.contact{
+    margin-top: -10px;
+}
+.cnt{
+    padding-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.follow{
+    margin-top: 9px;
+}
+.fb {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.quick{
+    margin-top:-20px;
+
+}
+.qk{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

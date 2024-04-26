@@ -1,0 +1,44 @@
+.dcard{
+    text-align: start;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    
+}
+.card-main-l {
+    width: 320px; 
+    height: 360px; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin: 20px;
+    margin-top: -60px; 
+    background-color: grey;
+    background-size: cover; 
+    background-position: center; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    cursor: pointer;
+  }
+  
+  .card-main-l:hover {
+    
+    transform: scale(1.08);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-main-l.card-content {
+    padding: 20px; 
+    text-align: center; 
+    color: #333; 
+  }
+
+  .click-btn:hover{
+    /* transform: scale(1.02); */
+    background-color: #333;
+  }
+  
+  
+  
+
+

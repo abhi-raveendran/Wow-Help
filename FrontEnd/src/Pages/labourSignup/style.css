@@ -1,0 +1,29 @@
+.laboursign-form{
+    width: 400px;
+    /* border: 2px solid black; */
+    box-shadow: 0px 0px 9px 9px grey;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.laboursign{
+    
+    /* width: 700px; */
+    min-height:120vh ;
+    background-image: url('/lak.avif');
+    filter: (110%) contrast(190%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+
+}
+.p{
+    color: white;
+    font-size: 18px;
+}

@@ -1,0 +1,43 @@
+.profile-data{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 60px;
+  /* border: 2px solid black; */
+  width: 400px;
+  height: 400px;
+  position: relative;
+  top: 90px;
+  align-items: center;
+  background-color:#b14646;
+  box-shadow: 0px 0px 8px 8px #863535;
+}
+.req-data{
+  display: flex;
+  flex-direction: column;
+  margin-top: 90px;
+  /* border: 2px solid black; */
+  width: 400px;
+ min-height: 400px;
+  align-items: center;
+  background-color:#b14646;
+  box-shadow: 0px 0px 8px 8px #863535 ;
+
+  
+
+
+}
+.bat{
+  background-color:#b14646;
+  min-height: 1500px;
+}
+.req-profile{
+  /* border: 2px solid black; */
+  display: flex;
+  justify-content: space-around;
+  height: 500px;
+  /* align-items: center; */
+}
+.req{
+  text-align: center;
+}

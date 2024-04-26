@@ -1,0 +1,31 @@
+.user-signup-form{
+    width: 400px;
+    /* border: 2px solid black; */
+    box-shadow: 0px 0px 9px 9px gray;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;;
+}
+.logo-back{
+    position: relative;
+    top: 10px;
+}
+.user-signUp{
+    
+        /* width: 700px; */
+        height:100vh ;
+        background-image: url('/lak.avif');
+        filter: (110%) contrast(190%);
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;
+        height: 700px;
+        margin-top: -10px;
+
+    
+    }

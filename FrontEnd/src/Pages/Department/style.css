@@ -1,0 +1,62 @@
+.department-list{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-top: -30px;
+    overflow-x:scroll;
+    height: 700px;
+
+
+}
+.link-l{
+    position: relative;
+    left: 1180px;
+    top: 20px;
+    padding-top: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    position: fixed;
+    width: 160px;
+    text-align: center;
+    height: 35px;
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    background-color: rgba(9, 126, 194, 0.87);
+    color: white;
+}
+ 
+.h1{
+    position: absolute;
+    left:530px;
+    position: fixed;
+    top: 19px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.b{
+    position: relative;
+    position: fixed;
+    top: 19px;
+    left: 10px;
+}
+
+
+
+.department{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 700px;
+    width: 100%;
+    font-size: 15px;
+    color: black;
+    background-image: url('/left.jpg');
+    min-width: 2750px;
+    box-sizing: border-box;
+    
+    
+    
+
+}
+

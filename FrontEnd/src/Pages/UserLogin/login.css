@@ -1,0 +1,56 @@
+.login{
+    /* width: 700px; */
+    height:100vh ;
+    background-image: url('/lak.avif');
+    filter: (110%) contrast(190%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+
+}
+
+.login-list{
+    width: 400px;
+    /* border: 2px solid black; */
+    box-shadow: 0px 0px 9px 9px grey;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.pitch{
+    color: grey;
+    font-size: 35px;
+}
+.continue{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: grey;
+}
+.signup{
+    background-color: rgb(2, 2, 82);
+}
+.login-btn{
+    background-color: rgb(2, 2, 82);
+
+}
+
+.account p{
+    font-weight: bold;
+    /* font-size: 18px; */
+    color: white;
+}
+.back-img{
+display: flex;
+position: relative;
+top: 20px;
+left: 20px;
+}
+.logo-back{
+    position: relative;
+    top: 10px;
+}
